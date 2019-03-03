@@ -60,3 +60,4 @@ Bachelor of Science (Major: Computer Science; Graduated Magna Cum Laude), May 20
 **Certifications**
 ACE Web Specialist (Adobe) • Zend Certified PHP Engineer • Oracle (APEX) Certified
 ##### English level
+Upper-Intermediate (MSLU courses)
