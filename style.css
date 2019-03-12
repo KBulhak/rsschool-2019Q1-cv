@@ -1,0 +1,18 @@
+img {
+    border: 2px solid #ddd;
+    border-radius: 3px;
+    padding: 7px;
+    width: 200px;
+}
+div {
+    max-width: 1024px;
+    background-color: #F8F8FF;
+    margin: auto;
+    border: 2px solid black;
+}
+h1,
+h2,
+h3,
+p {
+    margin: 7px;
+}
