@@ -1,5 +1,5 @@
 img {
-    border: 2px solid #ddd;
+    border: 2px solid rgb(200, 240, 243);
     border-radius: 3px;
     padding: 7px;
     width: 200px;
@@ -15,4 +15,7 @@ h2,
 h3,
 p {
     margin: 7px;
+}
+.key {
+    font-style: italic;
 }
